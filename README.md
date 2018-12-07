@@ -45,7 +45,7 @@ Im going to make the assumption that the jdk is installed and path variable is s
 4.) open command prompt in that folder you just made with the two files inside it and run:
     java XORDecode
     
-5.) you now should get a plaintextOutput file. Congradulations!
+5.) you now should get a plaintextOutput file. Congratulations!
 
 Supposedly this is a sqlite3 database. Problem is You can't open it in a normal text editor like notepad
 
