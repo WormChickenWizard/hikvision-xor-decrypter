@@ -33,7 +33,7 @@ now you should have a file called "decryptedoutput" this file has the aes encryp
 
 -----------------------XOR decode script compilation and using-----------------------------------
 
-Im going to make the assumption that the jdk is installed and path variable is setup correctly
+Im going to make the assumption that the jdk is installed and the path variable is setup correctly
 
 1.) clone this repository (or download the zip whatever is easier)
 
