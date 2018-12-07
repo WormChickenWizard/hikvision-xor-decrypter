@@ -35,7 +35,7 @@ now you should have a file called "decryptedoutput" this file has the aes encryp
 
 Im going to make the assumption that the jdk is installed and path variable is setup correctly
 
-1) clone this repository (or download the zip whatever is easier)
+1.) clone this repository (or download the zip whatever is easier)
 
 2.) navigate to XORDecode.java in a command prompt and run:
       javac XORDecode.java
