@@ -1,4 +1,7 @@
 # Hikvision XOR Decrypter
+
+**FYI this script is soon going to be replaced. I am actively working on an all-encompassing utility that does all the steps listed below** 
+
 Hikvision configuration files use two layers of encryption, 
 
 It first XOR encrypts the configuration file then it proceed to encrypt it with aes 128-bit ecb encryption(electronic codebook).
