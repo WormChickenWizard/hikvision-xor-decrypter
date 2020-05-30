@@ -2,7 +2,7 @@
 
 ~~**FYI this script is soon going to be replaced. I am actively working on an all-encompassing utility that does all the steps listed below**~~
 
-**After a year of putting the following goal off, I finally got around to building said all-encompassing utility. It can be found [here](https://github.com/WormChickenWizard/hikvision-decrypter)**
+**After a year of putting it off, I finally got around to building said all-encompassing utility. It can be found [here](https://github.com/WormChickenWizard/hikvision-decrypter)**
 
 Hikvision configuration files use two layers of encryption, 
 
